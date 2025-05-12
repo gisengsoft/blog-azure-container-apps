@@ -1,4 +1,4 @@
-# Blog Azure Container Apps
+# Blog Azure Container Apps - Gilson Silva
 
 Um projeto demonstrativo de blog implementado com Azure Container Apps, mostrando uma arquitetura moderna de aplicação web em contêineres na nuvem Microsoft Azure.
 
