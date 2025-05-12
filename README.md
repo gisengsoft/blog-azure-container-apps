@@ -6,8 +6,6 @@ Um projeto demonstrativo de blog implementado com Azure Container Apps, mostrand
 
 Este projeto implementa uma aplicação de blog utilizando Azure Container Apps. A aplicação é uma SPA (Single Page Application) com frontend em HTML/JS que se comunica com serviços backend hospedados em contêineres. O projeto demonstra a implementação de uma arquitetura moderna usando serviços em nuvem da Microsoft.
 
-![Arquitetura do Projeto](https://exemplo.com/arquitetura.png)
-
 ## 🏗️ Estrutura do Projeto
 
 ```
