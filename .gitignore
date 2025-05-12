@@ -1,0 +1,14 @@
+# No PowerShell ou Git Bash
+cd C:\BlogConteinerApps
+
+# Criar ou atualizar .gitignore
+cat > .gitignore << 'EOF'
+# Arquivos sensíveis
+secrets.ps1
+*.env
+*.pfx
+*.key
+.vscode/
+*.log
+node_modules/
+EOF
